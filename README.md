@@ -1,5 +1,3 @@
-### 🔥 It's dangerous to go alone! Take this. 🔥
-
 <!--
 **emilioleon/emilioleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
